@@ -1,0 +1,6 @@
+Function Name: makeEmpty()
+
+Runtime Complexity: O(N), where N is the number of nodes in the tree.
+
+Explanation: To delete all nodes in a given tree, each node will be visited at most once. Therefore,
+	given a tree with N nodes, the runtime complexity to delete all nodes in the tree will be O(N).
